@@ -1,0 +1,28 @@
+{
+    "name":"",
+    "address":"",
+    "pan":"",
+    "cPerson":"",
+    "cNumber":"",
+    "email":"",
+    "isActive":"",
+   "password":""
+}
+
+{
+    "name":"anoj",
+    "address":"bkt",
+    "pan":"123456",
+    "cPerson":"rohit",
+    "cNumber":"9841",
+    "email":"anoj@gmail.com",
+    "isActive":"true",
+   "password":"1234"
+}
+
+login
+{
+
+    "email":"anoj@gmail.com",
+   "password":"1234"
+}
